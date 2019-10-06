@@ -64,14 +64,6 @@ def get_candidate_occurrence(tweets_df, candidates):
     return candidates
 
 
-#val = get_candidate_occurrence(load_pickle(), get_candidates())
-
-#f = open("candidatos.txt","w+")
-#for key in val:
-#    f.write(key + ": " + str(val[key]) + "\n")
-
-#f.close
-#print(val)
 
 
 

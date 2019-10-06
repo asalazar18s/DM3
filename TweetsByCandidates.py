@@ -37,7 +37,7 @@ def send_each_to_file(tweet_dictionary):
     for key in tweet_dictionary:
         new_file = open(key + "_tweets.txt", "w+")
         for tweet in tweet_dictionary[key]:
-            new_file.write(tweet)
+            new_file.write(tweet + '\n')
         new_file.close()
 
 
