@@ -10,14 +10,9 @@ except AttributeError:
     pass
 else:
     ssl._create_default_https_context = _create_unverified_https_context
-
-
-
 punctuations = '''!¡¿()-[]{};:'"\,<>./?@#$%^&*_~'''
 
 s_words = set(stopwords.words('spanish'))
-
-# filtered_sentence = [w for w in words if not w in s_words]
 
 def remove_stop_words(given_file):
     new_file = "./FilesWithNoStopWord/" + given_file + "_N_S_Words.txt"
@@ -62,6 +57,10 @@ def remove_stop_words(given_file):
     stop_words.add("x")
     stop_words.add("d")
     stop_words.add("”")
+    stop_words.add("httpstcoo9phkbcolh")
+    stop_words.add("nadie")
+    stop_words.add("obrassincorrupcion")
+
 
     file1 = open(candidate_tweets,'r+')
     lines = file1.readlines()  # Use this to read file content as a stream:

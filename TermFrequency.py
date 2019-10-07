@@ -3,7 +3,6 @@ from collections import Counter
 candidates = ['CesarMontufar51', "CynthiaViteri6", 'davalos2019', "jimmyjairala", "juancaholguin", "LoroHomero",
               "LuisaMaldonadoM", "PacoMoncayo", "VickyDesintonio", "wgomezr"]
 def get_term_frequency(given_file):
-
     new_file = "./FilesWithNoStopWord/" + given_file + "_N_S_Words.txt"
     file_to_read = open(new_file, 'r+')
 
@@ -33,9 +32,6 @@ def write_freq_to_file(freq_dictionary, given_file):
     for i in high:
         file_to_write.write(i[0] + " : " + str(i[1]) + "\n")
     file_to_write.close()
-
-
-
 
 
 for candidate in candidates:
