@@ -1,0 +1,10 @@
+quito : 50
+alcalde : 40
+yunda : 16
+jorge : 15
+quitograndeotravez : 2
+trabajo : 2
+sur : 2
+campaña : 2
+apoyo : 2
+alcaldía : 2

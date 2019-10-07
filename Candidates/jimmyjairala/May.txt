@@ -1,0 +1,10 @@
+elmejorguayaquildetodoslostiempos : 0
+guayaquil : 7
+guayaquilyadecidióporjairala : 0
+teleradio1350 : 52
+rtw24ec : 52
+alcaldía : 0
+josetoledog : 0
+boletín : 0
+campaña : 1
+multas : 0

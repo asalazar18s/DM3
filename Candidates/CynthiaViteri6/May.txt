@@ -1,0 +1,10 @@
+guayaquil : 15
+sigueguayaquilsigue : 1
+progreso : 4
+sueños : 3
+guayaquileños : 5
+bienestar : 5
+obras : 0
+seguiremos : 4
+jóvenes : 2
+ustedes : 1

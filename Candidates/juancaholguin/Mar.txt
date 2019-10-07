@@ -1,0 +1,10 @@
+quito : 17
+campaña : 13
+innovarparacambiar : 12
+cambiar : 19
+plan : 3
+buenos : 5
+alcalde : 2
+propuestas : 4
+jcsolines : 4
+gobierno : 3

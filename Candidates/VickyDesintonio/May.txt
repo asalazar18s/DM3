@@ -1,0 +1,10 @@
+victoriadelapatria : 3
+cpccs : 5
+ganaremosecuador : 0
+casillero6 : 0
+participación : 5
+eleccionescpccs : 0
+ciudadana : 6
+marzo : 1
+consejo : 2
+voto : 2

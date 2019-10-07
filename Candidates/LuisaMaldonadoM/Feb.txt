@@ -1,0 +1,10 @@
+quito : 64
+compromisorc5 : 28
+votatodo5 : 74
+pueblo : 14
+mashirafael : 14
+alcaldía : 21
+trabajo : 8
+luisa : 25
+marzo : 13
+recuperar : 17

@@ -1,0 +1,10 @@
+elquitoquesoñamos : 28
+quito : 32
+quiteños : 13
+sistema : 8
+gente : 5
+transporte : 5
+quiero : 0
+alcalde : 4
+barrios : 5
+trabajar : 8

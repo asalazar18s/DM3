@@ -1,0 +1,10 @@
+cpccs : 0
+cnegobec : 0
+actas : 0
+elecciones : 0
+cne : 0
+voto : 1
+votos : 0
+cneconvocaeleccionescpccs : 0
+exigir : 0
+davalos2019 : 0

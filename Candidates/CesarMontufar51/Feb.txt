@@ -1,0 +1,10 @@
+quito : 13
+apoyo : 3
+quiteños : 5
+obrassincorrupción : 7
+campaña : 2
+corrupción : 8
+césarmontúfaralcalde : 4
+recuperar : 4
+alcaldía : 1
+plan : 4

@@ -1,0 +1,10 @@
+cpccs : 13
+cnegobec : 4
+actas : 1
+elecciones : 11
+cne : 11
+voto : 7
+votos : 2
+cneconvocaeleccionescpccs : 0
+exigir : 0
+davalos2019 : 6

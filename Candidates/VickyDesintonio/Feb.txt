@@ -1,0 +1,10 @@
+victoriadelapatria : 64
+cpccs : 47
+ganaremosecuador : 0
+casillero6 : 39
+participación : 16
+eleccionescpccs : 30
+ciudadana : 10
+marzo : 11
+consejo : 13
+voto : 31

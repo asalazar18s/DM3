@@ -1,0 +1,10 @@
+quito : 0
+apoyo : 0
+quiteños : 0
+obrassincorrupción : 0
+campaña : 1
+corrupción : 0
+césarmontúfaralcalde : 0
+recuperar : 0
+alcaldía : 0
+plan : 0
